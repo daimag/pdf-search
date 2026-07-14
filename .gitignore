@@ -1,0 +1,9 @@
+.claude/
+node_modules/
+.next/
+data/*.db
+data/*.db-*
+__pycache__/
+*.pyc
+.env
+.DS_Store
